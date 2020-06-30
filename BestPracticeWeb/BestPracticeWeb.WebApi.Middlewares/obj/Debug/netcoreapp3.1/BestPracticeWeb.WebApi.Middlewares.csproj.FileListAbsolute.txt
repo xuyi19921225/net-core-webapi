@@ -1,0 +1,11 @@
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Middlewares\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Middlewares.deps.json
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Middlewares\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Middlewares.dll
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Middlewares\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Middlewares.csprojAssemblyReference.cache
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Middlewares\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Middlewares.AssemblyInfoInputs.cache
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Middlewares\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Middlewares.AssemblyInfo.cs
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Middlewares\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Middlewares.pdb
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Middlewares\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Middlewares.dll
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Middlewares\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Middlewares.pdb
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Middlewares\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Common.dll
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Middlewares\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Common.pdb
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Middlewares\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Middlewares.csproj.CopyComplete

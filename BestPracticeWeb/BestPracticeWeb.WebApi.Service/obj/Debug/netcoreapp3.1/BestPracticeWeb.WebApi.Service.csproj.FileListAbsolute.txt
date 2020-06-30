@@ -1,0 +1,15 @@
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Service\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Service.deps.json
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Service\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Service.dll
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Service\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Service.pdb
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Service\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Service.csprojAssemblyReference.cache
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Service\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Service.AssemblyInfoInputs.cache
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Service\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Service.AssemblyInfo.cs
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Service\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Service.dll
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Service\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Service.pdb
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Service\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Model.dll
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Service\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Model.pdb
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Service\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Service.csproj.CopyComplete
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Service\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.IService.dll
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Service\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.IService.pdb
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Service\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Common.dll
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Service\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Common.pdb

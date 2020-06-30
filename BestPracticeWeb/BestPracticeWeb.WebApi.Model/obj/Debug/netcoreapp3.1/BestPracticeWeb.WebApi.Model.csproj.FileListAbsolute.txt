@@ -1,0 +1,8 @@
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Model\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Model.AssemblyInfoInputs.cache
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Model\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Model.AssemblyInfo.cs
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Model\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Model.deps.json
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Model\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Model.dll
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Model\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Model.pdb
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Model\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Model.dll
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Model\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Model.pdb
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Model\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Model.csprojAssemblyReference.cache

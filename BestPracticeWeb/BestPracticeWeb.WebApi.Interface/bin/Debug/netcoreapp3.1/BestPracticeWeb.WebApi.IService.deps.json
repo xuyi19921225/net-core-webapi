@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BestPracticeWeb.WebApi.IService/1.0.0": {
+        "dependencies": {
+          "BestPracticeWeb.WebApi.Model": "1.0.0"
+        },
+        "runtime": {
+          "BestPracticeWeb.WebApi.IService.dll": {}
+        }
+      },
+      "BestPracticeWeb.WebApi.Model/1.0.0": {
+        "runtime": {
+          "BestPracticeWeb.WebApi.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BestPracticeWeb.WebApi.IService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BestPracticeWeb.WebApi.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

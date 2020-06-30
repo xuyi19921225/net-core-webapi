@@ -1,0 +1,11 @@
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Interface\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Interface.deps.json
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Interface\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Interface.dll
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Interface\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Interface.pdb
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Interface\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Model.dll
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Interface\bin\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Model.pdb
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Interface\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Interface.csprojAssemblyReference.cache
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Interface\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Interface.AssemblyInfoInputs.cache
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Interface\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Interface.AssemblyInfo.cs
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Interface\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Interface.csproj.CopyComplete
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Interface\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Interface.dll
+C:\D\SVNProject\NetProject\BestPracticeWeb\BestPracticeWeb.WebApi.Interface\obj\Debug\netcoreapp3.1\BestPracticeWeb.WebApi.Interface.pdb

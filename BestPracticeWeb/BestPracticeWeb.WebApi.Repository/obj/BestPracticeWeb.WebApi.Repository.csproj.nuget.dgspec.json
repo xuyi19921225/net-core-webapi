@@ -1,0 +1,175 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\D\\SVNProject\\NetProject\\BestPracticeWeb\\BestPracticeWeb.WebApi.Repository\\BestPracticeWeb.WebApi.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\D\\SVNProject\\NetProject\\BestPracticeWeb\\BestPracticeWeb.WebApi.IRepository\\BestPracticeWeb.WebApi.IRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\SVNProject\\NetProject\\BestPracticeWeb\\BestPracticeWeb.WebApi.IRepository\\BestPracticeWeb.WebApi.IRepository.csproj",
+        "projectName": "BestPracticeWeb.WebApi.IRepository",
+        "projectPath": "C:\\D\\SVNProject\\NetProject\\BestPracticeWeb\\BestPracticeWeb.WebApi.IRepository\\BestPracticeWeb.WebApi.IRepository.csproj",
+        "packagesPath": "C:\\Users\\1272417\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\SVNProject\\NetProject\\BestPracticeWeb\\BestPracticeWeb.WebApi.IRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\1272417\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "http://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\D\\SVNProject\\NetProject\\BestPracticeWeb\\BestPracticeWeb.WebApi.Model\\BestPracticeWeb.WebApi.Model.csproj": {
+                "projectPath": "C:\\D\\SVNProject\\NetProject\\BestPracticeWeb\\BestPracticeWeb.WebApi.Model\\BestPracticeWeb.WebApi.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D\\SVNProject\\NetProject\\BestPracticeWeb\\BestPracticeWeb.WebApi.Model\\BestPracticeWeb.WebApi.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\SVNProject\\NetProject\\BestPracticeWeb\\BestPracticeWeb.WebApi.Model\\BestPracticeWeb.WebApi.Model.csproj",
+        "projectName": "BestPracticeWeb.WebApi.Model",
+        "projectPath": "C:\\D\\SVNProject\\NetProject\\BestPracticeWeb\\BestPracticeWeb.WebApi.Model\\BestPracticeWeb.WebApi.Model.csproj",
+        "packagesPath": "C:\\Users\\1272417\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\SVNProject\\NetProject\\BestPracticeWeb\\BestPracticeWeb.WebApi.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\1272417\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "http://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D\\SVNProject\\NetProject\\BestPracticeWeb\\BestPracticeWeb.WebApi.Repository\\BestPracticeWeb.WebApi.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\SVNProject\\NetProject\\BestPracticeWeb\\BestPracticeWeb.WebApi.Repository\\BestPracticeWeb.WebApi.Repository.csproj",
+        "projectName": "BestPracticeWeb.WebApi.Repository",
+        "projectPath": "C:\\D\\SVNProject\\NetProject\\BestPracticeWeb\\BestPracticeWeb.WebApi.Repository\\BestPracticeWeb.WebApi.Repository.csproj",
+        "packagesPath": "C:\\Users\\1272417\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\SVNProject\\NetProject\\BestPracticeWeb\\BestPracticeWeb.WebApi.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\1272417\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "http://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\D\\SVNProject\\NetProject\\BestPracticeWeb\\BestPracticeWeb.WebApi.IRepository\\BestPracticeWeb.WebApi.IRepository.csproj": {
+                "projectPath": "C:\\D\\SVNProject\\NetProject\\BestPracticeWeb\\BestPracticeWeb.WebApi.IRepository\\BestPracticeWeb.WebApi.IRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "sqlSugarCore": {
+              "target": "Package",
+              "version": "[5.0.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
